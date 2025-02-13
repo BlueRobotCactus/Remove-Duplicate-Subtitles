@@ -4,7 +4,7 @@ This script removes **identical consecutive subtitle blocks** from an `.srt` fil
 
 ## Requirements
 
-* Python 3.x must be installed on your system. If you don’t have it, you can download it from python.org
+* Python 3.x must be installed on your system. If you don’t have it, you can download it from [python.org](https://www.python.org/)
 * Works with UTF-8 encoded `.srt` files
 
 ## Usage
